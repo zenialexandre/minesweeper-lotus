@@ -1,0 +1,8 @@
+[package]
+name = "minesweeper-lotus"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lotus_engine = "0.3.3"
+rand = "0.10.2"
